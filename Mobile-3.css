@@ -1,0 +1,91 @@
+body {
+    padding-bottom: 70px;
+}
+
+
+/*全局清除*/
+
+.clear {
+    clear: both;
+}
+
+
+/*设置顶部导航的样式*/
+
+.nav-top-style {
+    background-color: #272727;
+}
+
+
+/*设置顶部网站logo位置*/
+
+.nav-top-img {
+    padding-top: 10px;
+    float: left;
+}
+
+
+/*设置顶部搜索框的位置*/
+
+.nav-top-input {
+    float: left;
+    padding-top: 7px;
+    padding-left: 10%;
+}
+
+
+/*设置顶部搜索框样式*/
+
+.input-style {
+    background-color: #272727;
+}
+
+
+/*设置底部导航栏样式*/
+
+.nav-bottom-style {
+    background-color: #272727;
+}
+
+
+/*设置顶部导航栏的icon位置*/
+
+.nav-bottom-icon {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+.article-col-style-1{
+    height: 350px;
+    border: 1px solid #d2d2d4;
+}
+.article-a {
+    color: black;
+    text-decoration: none;
+}
+
+.article-a:hover {
+    color: #2196f2;
+    text-decoration: none;
+}
+
+.article-li {
+    width: 105.5%;
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-left: -15px;
+}
+
+.article-li:hover {
+    background-color: #efefef;
+}
+.article-h4{
+    float: left;
+}
+.article-menu{
+    float: left;
+    margin-top: 12px;
+    margin-left: 10px;
+}

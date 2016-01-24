@@ -1,0 +1,118 @@
+body {
+    padding-bottom: 70px;
+}
+
+
+/*全局清除*/
+
+.clear {
+    clear: both;
+}
+
+
+/*设置顶部导航的样式*/
+
+.nav-top-style {
+    background-color: #272727;
+}
+
+
+/*设置顶部网站logo位置*/
+
+.nav-top-img {
+    padding-top: 10px;
+    float: left;
+}
+
+
+/*设置顶部搜索框的位置*/
+
+.nav-top-input {
+    float: left;
+    padding-top: 7px;
+    padding-left: 10%;
+}
+
+
+/*设置顶部搜索框样式*/
+
+.input-style {
+    background-color: #272727;
+}
+
+
+/*设置底部导航栏样式*/
+
+.nav-bottom-style {
+    background-color: #272727;
+}
+
+
+/*设置顶部导航栏的icon位置*/
+
+.nav-bottom-icon {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+.article-col-style-1 {
+    height: 164px;
+    border: 1px solid #d2d2d4;
+}
+
+.article-img {
+    float: left;
+    width: 60px;
+    height: 60px;
+}
+
+.col-12-style {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d2d2d4;
+}
+
+.article-h4 {
+    margin-top: 3px;
+    margin-left: 20px;
+    float: left;
+}
+
+.article-p1 {
+    margin-top: 30px;
+    margin-left: -35px;
+    float: left;
+}
+
+.article-img-2 {
+    width: 20px;
+    height: 20px;
+    float: right;
+}
+
+.col-4-style {
+    height: 80px;
+    background-color: #272727;
+    padding-top: 10px;
+}
+.article-h4-2{
+     color: #2196f2;
+}
+.article-p2 {
+    color: #ffffff;
+    font-size: 12px;
+}
+.article-btn{
+    margin-bottom: 100px;
+    margin-top: 40px;
+    margin-left: 30%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    background-color:  #2196f2;
+    color: #ffffff;
+}

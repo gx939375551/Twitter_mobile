@@ -1,0 +1,58 @@
+body {
+    padding-bottom: 70px;
+}
+
+
+/*全局清除*/
+
+.clear {
+    clear: both;
+}
+
+
+/*设置顶部导航的样式*/
+
+.nav-top-style {
+    background-color: #272727;
+}
+
+
+/*设置顶部网站logo位置*/
+
+.nav-top-img {
+    padding-top: 10px;
+    float: left;
+}
+
+
+/*设置顶部搜索框的位置*/
+
+.nav-top-input {
+    float: left;
+    padding-top: 7px;
+    padding-left: 10%;
+}
+
+
+/*设置顶部搜索框样式*/
+
+.input-style {
+    background-color: #272727;
+}
+
+
+/*设置底部导航栏样式*/
+
+.nav-bottom-style {
+    background-color: #272727;
+}
+
+
+/*设置顶部导航栏的icon位置*/
+
+.nav-bottom-icon {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}

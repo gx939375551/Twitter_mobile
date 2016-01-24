@@ -1,0 +1,125 @@
+body {
+    padding-bottom: 70px;
+}
+
+
+/*全局清除*/
+
+.clear {
+    clear: both;
+}
+
+
+/*设置顶部导航的样式*/
+
+.nav-top-style {
+    background-color: #272727;
+}
+
+
+/*设置顶部网站logo位置*/
+
+.nav-top-img {
+    padding-top: 10px;
+    float: left;
+}
+
+
+/*设置顶部搜索框的位置*/
+
+.nav-top-input {
+    float: left;
+    padding-top: 7px;
+    padding-left: 10%;
+}
+
+
+/*设置顶部搜索框样式*/
+
+.input-style {
+    background-color: #272727;
+}
+
+
+/*设置底部导航栏样式*/
+
+.nav-bottom-style {
+    background-color: #272727;
+}
+
+
+/*设置顶部导航栏的icon位置*/
+
+.nav-bottom-icon {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+/*设置第一个文章块的边框及高度的样式*/
+.article-col-style-1 {
+    height: 600px;
+    border: 1px solid #d2d2d4;
+}
+/*设置第二个文章块的边框及高度的样式*/
+.article-col-style-2 {
+    margin-top: 10px;
+    height: 80px;
+    border: 1px solid #d2d2d4;
+}
+/*设置第一个文章块内部的左侧图片的块的高度*/
+.article-c2-tyle {
+    height: 100px;
+}
+/*设置第二个文章块内部的左侧图片的块的高度*/
+.article-c3-style {
+    height: 120px;
+}
+
+.article-img {
+    margin-top: 20px;
+    width: 60px;
+    height: 60px;
+}
+
+.article-h5 {
+    float: left;
+    padding-top: 10px;
+    margin-left: -15px;
+}
+
+.article-p1 {
+    color: #2196f2;
+    float: left;
+    padding-top: 17px;
+}
+
+.article-p2 {
+    float: left;
+    margin-top: -5px;
+    margin-left: -15px;
+}
+
+.ariticle-p-3 {
+    font-size: 13px;
+    margin-left: -15px;
+}
+
+.article-img-2 {
+    margin-top: -60px;
+    margin-left: 50px;
+}
+.article-p4{
+	color: #ababab;
+	margin-right: 10px;
+	margin-top: -28px;
+	float: right;
+}
+.article-img-3{
+	margin-top: -28px;
+	margin-right: 10px;
+	float: right;
+}
+.article-nav{
+	margin-top: 40px;
+}
